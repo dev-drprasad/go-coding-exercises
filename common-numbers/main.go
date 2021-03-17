@@ -17,10 +17,7 @@ func main() {
 		} else {
 			fmt.Println(arr1[i])
 			i++
-
 			j++
-
 		}
-
 	}
 }
